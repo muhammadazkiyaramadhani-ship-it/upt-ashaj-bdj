@@ -1,0 +1,6 @@
+{
+  "name": "UPT Asrama Haji Embarkasi Banjarmasin",
+  "description": "Sistem Informasi dan Katalog Bangunan Kawasan UPT Asrama Haji Embarkasi Banjarmasin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
